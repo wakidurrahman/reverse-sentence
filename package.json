@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/wakidurrahman/reverse-sentence-nodejs-module/issues"
   },
-  "homepage": "https://github.com/wakidurrahman/reverse-sentence-nodejs-module#readme"
+  "homepage": "https://github.com/wakidurrahman/reverse-sentence-nodejs-module#readme",
+  "devDependencies": {
+    "prettier": "3.2.4"
+  }
 }
