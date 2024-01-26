@@ -11,14 +11,14 @@ npm install @wakidurrahman/reverse-sentence-nodejs-module
 ## API
 
 ```js
-require("reverse-sentence") => Function
+require("reverse-sentence-nodejs-module") => Function
 reverseSentence(sentence) => String
 ```
 
 ## Example
 
 ```js
-const reverseSentence = require("reverse-sentence");
+const reverseSentence = require("reverse-sentence-nodejs-module");
 const sentence = "Hello World!";
 const reversed = reverseSentence(sentence);
 console.log(reversed); // World! Hello
